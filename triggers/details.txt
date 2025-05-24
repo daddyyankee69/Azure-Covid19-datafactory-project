@@ -1,1 +1,1 @@
-
+We've made use of multiple triggers for running our pipelines, we've also made use of event based trigggers which works in the scenario of whenever the file is avaialble at the source then only the pipeline will start itself and try to look for the file from the location mentioned. 
