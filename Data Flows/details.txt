@@ -1,1 +1,1 @@
-
+With the help of Data flow which is a visual designer and basically a no code solution to transform our data upto some certain level. we make use of it and use activites like select, lookup, pivot, sort, joins along with aggregate as well to transform our data into the required formats which we needed. for example: we transformed our hospital admissions data into daily and weekly data and our cases and deaths data into aqequate format and according to our requirements. 
