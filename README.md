@@ -1,5 +1,5 @@
 # Azure-Covid19-datafactory-project
-Created a project based upon learnings and practice along with hands on experience of Azure Data Factory, azure portal and some use of other services of azure as well. It follows a structure of trying to load the covid19 data from the link for different countries which are defined on the basis of different country names.
+Created a project based upon learnings and practice from the course from the Udemy course:Azure Data Factory For Data Engineers - Project on Covid19 by Ramesh Retnasamy along with hands on experience of Azure Data Factory, azure portal and some use of other services of azure as well. It follows a structure of trying to load the covid19 data from the link for different countries which are defined on the basis of different country names.
 
 The project is based around reporting and prediction of COVID-19 spread. Firstly, we want to create a data platform from which our data science team can run machine learning models to predict the spread of the virus, and find other insights from the data. Secondly, we wanna create a data platform from which our data analysts can easily report on the COVID-19 trends using a reporting tool. So, those are the two main objectives of our project. The solution that we are building will be limited to reporting on the data related to EU countries and UK only. 
 
