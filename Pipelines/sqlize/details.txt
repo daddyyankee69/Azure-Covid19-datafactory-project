@@ -1,1 +1,1 @@
-
+As part of the final things which we wanted to do was to load the data into our sql tables by creating a sql server and corresponding connecting database for it which after running the query for creation of the tables, we run the copy data activity from the data lake datasets for cases and deaths data along with the hospital admissions. As they were created as part of the process pipelines for the data lakes so we use them here. 
