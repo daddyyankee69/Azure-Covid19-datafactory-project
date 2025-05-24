@@ -1,1 +1,3 @@
+For ingesting our popualation data into our data lake storage we've created the pipeline pl_ingest_population_data which first takes the file from the location and performs, keeps track of metadata of file and only works if the data is present in the file along with the respective counts of columns present and minimal required size met. If not a fail activity is triggered which alerts us about it in our email address respectively. 
 
+And in the second pipeline we have made use of Control flow acitivities that is Lookup to see links of the location of the cases and deaths and hospitalization files from the links without actually having the need to pass them into the variables which then stores our files using the copy activity in the data lake. 
