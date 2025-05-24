@@ -1,1 +1,1 @@
-
+Since a Data flow needs to be inside the pipeline to make it execute fully we haeve created the pipelines for cases and deaths data and hospital admissions along with it we have also created a pl_process_population_data pipeline which uses the databricks notebook activity which : Splits the country code & age group, Exclude all data other than 2019, Remove non numeric data from percentage, Pivot the data by age group, Join to dim_country to get the country, 3 digit country code and the total population.
