@@ -1,2 +1,0 @@
-Two notebooks were created in order to set up the mount points and locations for the transformations required to do so 
-using databricks and with the help of pyspark and sql. 
